@@ -5,7 +5,7 @@ metadata:
   description: An example of a Backstage application.
   # Example for optional annotations
   annotations:
-    github.com/project-slug: IDEDevOpsConsultingSandbox/backstage-anuj
+    github.com/project-slug: backstage-local
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: website
